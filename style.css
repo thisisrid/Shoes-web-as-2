@@ -1,13 +1,47 @@
 .bg-custom{
    background-color: #FFF9F4;
 }
-
+.text-orange{
+    color: rgba(250, 128, 76, 1);
+    ;
+}
 .logo {
     width: 290px;
     height: 40px;
 }
+.nike-custom-adjust{
+    width: 350px;
+    height: 330px;
+    background-color: #F1F1F1;
+    border-radius: 20px;
+    
+}
+.shoe-custom-adjust{
+    width: 350px;
+    height: 330px;
+    
+}
 
-.img-adjust{
-    width: 510px;
-    height: 500px;
+.custom-btn {
+    background-color: rgba(61, 79, 243, 1);
+    color: white;
+}
+.custom-footer {
+    background-color:white;
+    border: none;
+}
+.custom-card {
+    border: none;
+    border-radius: 20px;
+}
+
+h1,h2{
+    font-family: 'Bebas Neue', cursive;
+}
+
+h1{
+    font-size: 75px;
+}
+h2{
+    font-size: 50px;
 }
